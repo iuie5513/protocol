@@ -1,1 +1,9 @@
-1
+{
+	"code":200,
+	"result":{
+		"api":"https://store-api.delivago-store.tech",
+		"toolkit":"https://api.delivago-store.tech",
+		"h5":"https://store-h5.delivago-store.tech",
+		"protocol":null
+	}
+}
