@@ -1,0 +1,13 @@
+{
+	"code":200,
+	"result":{
+		"api":"https://api.goodlife-enjoy.xyz",
+		"toolkit":"",
+		"h5":"https://h5.goodlife-enjoy.xyz",
+		"protocol":null,
+		"configs":[
+			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/goodlife/config.json",
+			"https://bksn515.vercel.app/hosts/goodlife/config.json"
+		]
+	}
+}
