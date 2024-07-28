@@ -1,0 +1,13 @@
+{
+	"code":200,
+	"result":{
+		"api":"https://customer-api.speedy-reach.com",
+		"toolkit":"",
+		"h5":"https://customer-h5.speedy-reach.com",
+		"protocol":null,
+		"configs":[
+			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/jhatpatseva/config.json",
+			"https://bksn515.vercel.app/hosts/jhatpatseva/config.json"
+		]
+	}
+}
