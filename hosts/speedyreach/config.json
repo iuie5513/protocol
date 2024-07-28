@@ -1,0 +1,13 @@
+{
+	"code":200,
+	"result":{
+		"api":"https://delivery-api.speedy-reach.com",
+		"toolkit":"",
+		"h5":"https://delivery-h5.panash.tech",
+		"protocol":null,
+		"configs":[
+			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/speedyreach/config.json",
+			"https://bksn515.vercel.app/hosts/speedyreach/config.json"
+		]
+	}
+}
