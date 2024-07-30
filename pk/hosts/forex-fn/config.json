@@ -1,0 +1,13 @@
+{
+	"code":200,
+	"result":{
+		"api":"https://api.forex-fn.tech",
+		"toolkit":"",
+		"h5":"https://h5.forex-fn.tech",
+		"protocol":null,
+		"configs":[
+			"https://pku-pub.oss-ap-southeast-1.aliyuncs.com/hosts/forex-fn/config.json",
+			"https://pku515.vercel.app/pk/hosts/forex-fn/config.json"
+		]
+	}
+}
