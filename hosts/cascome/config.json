@@ -1,0 +1,13 @@
+{
+    "code":200,
+    "result":{
+        "api":"https://api.caslong.xyz",
+        "toolkit":"",
+        "h5":"https://come-h5.caslong.xyz",
+        "protocol":"https://portal.caslong.xyz",
+        "configs":[
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/cascome/config.json",
+            "https://bksn515.vercel.app/hosts/cascome/config.json"
+        ]
+    }
+}
