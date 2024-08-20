@@ -4,6 +4,10 @@
 		"api":"https://rupeefree-api.p6g.xyz",
 		"toolkit":"",
 		"h5":"https://rupeefree-h5.p6g.xyz",
-		"protocol":null
+		"protocol":null,
+		"configs":[
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/rupeefree/config.json",
+            "https://bksn515.vercel.app/hosts/rupeefree/config.json"
+        ]
 	}
 }
