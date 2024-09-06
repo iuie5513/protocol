@@ -1,9 +1,9 @@
 {
 	"code":200,
 	"result":{
-		"api":"https://rupeefree-api.p6g.xyz",
+		"api":"https://api.rupeefreein.tech",
 		"toolkit":"",
-		"h5":"https://rupeefree-h5.p6g.xyz",
+		"h5":"https://h5.rupeefreein.tech",
 		"protocol":null,
 		"configs":[
             "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/rupeefree/config.json",
