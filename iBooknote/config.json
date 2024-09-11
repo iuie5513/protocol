@@ -1,0 +1,13 @@
+{
+	"code":200,
+	"result":{
+		"api":"https://ibooknote-api.caslong.xyz",
+		"toolkit":"https://ibooknote-api.caslong.xyz",
+		"h5":"https://ibooknote-h5.caslong.xyz",
+		"protocol":null,
+		"configs":[
+			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/ibooknote/config.json",
+			"https://bksn515.vercel.app/hosts/ibooknote/config.json"
+		]
+	}
+}
