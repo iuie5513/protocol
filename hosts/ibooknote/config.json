@@ -1,9 +1,9 @@
 {
 	"code":200,
 	"result":{
-		"api":"https://ibooknote-api.caslong.xyz",
-		"toolkit":"https://ibooknote-api.caslong.xyz",
-		"h5":"https://ibooknote-h5.caslong.xyz",
+		"api":"https://api.ibooknote.tech",
+		"toolkit":"https://api.ibooknote.tech",
+		"h5":"https://h5.ibooknote.tech",
 		"protocol":null,
 		"configs":[
 			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/ibooknote/config.json",
