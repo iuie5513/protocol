@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://exconversion-api.ibooknote.tech",
+        "toolkit": "",
+        "h5": "https://exconversion-h5.ibooknote.tech",
+        "protocol": "https://exconversion-portal.ibooknote.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/exconversion/config.json",
+            "https://bksn515.vercel.app/hosts/exconversion/config.json"
+        ]
+    }
+}
