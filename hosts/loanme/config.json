@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.loanme.site",
+        "toolkit": "",
+        "h5": "https://h5.loanme.site",
+        "protocol": "https://portal.loanme.site",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/loanme/config.json",
+            "https://bksn515.vercel.app/hosts/loanme/config.json"
+        ]
+    }
+}
