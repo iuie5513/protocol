@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.ruprup.site",
+        "toolkit": "",
+        "h5": "https://h5.ruprup.site",
+        "protocol": "https://portal.ruprup.site",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/ruprup/config.json",
+            "https://bksn515.vercel.app/hosts/ruprup/config.json"
+        ]
+    }
+}
