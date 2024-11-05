@@ -6,8 +6,8 @@
         "h5": "https://h5.moni-ease.tech",
         "protocol": "https://portal.moni-ease.tech",
         "configs": [
-            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts//config.json",
-            "https://bksn515.vercel.app/hosts//config.json"
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/moniease/config.json",
+            "https://bksn515.vercel.app/hosts/moniease/config.json"
         ]
     }
 }
