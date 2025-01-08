@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.fn-credit.com",
+        "toolkit": "",
+        "h5": "https://h5.fn-credit.com",
+        "protocol": "https://portal.fn-credit.com",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/loanbee/config.json",
+            "https://bksn515.vercel.app/hosts/loanbee/config.json"
+        ]
+    }
+}
