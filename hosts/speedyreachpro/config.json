@@ -1,10 +1,10 @@
 {
 	"code": 200,
 	"result": {
-		"api": "https://api.pro-h5.speedy-reach.com",
+		"api": "https://pro-api.speedy-reach.com",
 		"toolkit": "",
-		"h5": "https://h5.pro-h5.speedy-reach.com",
-		"protocol": "https://portal.pro-h5.speedy-reach.com",
+		"h5": "https://pro-h5.speedy-reach.com",
+		"protocol": "https://pro-portal.speedy-reach.com",
 		"configs": [
 			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/speedyreachpro/config.json",
 			"https://bksn515.vercel.app/hosts/speedyreachpro/config.json"
