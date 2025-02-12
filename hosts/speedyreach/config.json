@@ -1,13 +1,14 @@
 {
-	"code": 200,
-	"result": {
-		"api": "https://api.pro-h5.speedy-reach.com",
-		"toolkit": "",
-		"h5": "https://h5.pro-h5.speedy-reach.com",
-		"protocol": "https://portal.pro-h5.speedy-reach.com",
-		"configs": [
+	"code":200,
+	"result":{
+		"api":"https://delivery-api.speedy-reach.com",
+		"toolkit":"",
+		"h5":"https://delivery-h5.speedy-reach.com",
+		"protocol":null,
+		"configs":[
 			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/speedyreach/config.json",
 			"https://bksn515.vercel.app/hosts/speedyreach/config.json"
 		]
 	}
 }
+
