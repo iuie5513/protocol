@@ -3,7 +3,7 @@
 	"result":{
 		"api":"https://boy-api.delivago-store.tech",
 		"toolkit":"https://api.delivago-store.tech",
-		"h5":"https://boy-h5.delivago-store.tech",
+		"h5":"https://boy-h5.smart-rich.tech",
 		"protocol":null,
 		"configs":[
 			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/smartrich/config.json",
