@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://boypro-api.smart-rich.tech",
+        "toolkit": "",
+        "h5": "https://boypro-h5.smart-rich.tech",
+        "protocol": "https://boypro-portal.smart-rich.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/smartrichpro/config.json",
+            "https://bksn515.vercel.app/hosts/smartrichpro/config.json"
+        ]
+    }
+}
