@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.credit-go.tech",
+        "toolkit": "",
+        "h5": "https://h5.credit-go.tech",
+        "protocol": "https://portal.credit-go.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/creditgo/config.json",
+            "https://bksn515.vercel.app/hosts/creditgo/config.json"
+        ]
+    }
+}
