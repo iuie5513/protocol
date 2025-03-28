@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.creditkano.com",
+        "toolkit": "",
+        "h5": "https://h5.creditkano.com",
+        "protocol": "https://portal.creditkano.com",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/creditkano/config.json",
+            "https://bksn515.vercel.app/hosts/creditkano/config.json"
+        ]
+    }
+}
