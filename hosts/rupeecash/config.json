@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.rupeecash.tech",
+        "toolkit": "",
+        "h5": "https://h5.rupeecash.tech",
+        "protocol": "https://portal.rupeecash.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/rupeecash/config.json",
+            "https://bksn515.vercel.app/hosts/rupeecash/config.json"
+        ]
+    }
+}
