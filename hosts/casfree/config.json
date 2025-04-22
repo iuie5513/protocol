@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.casfree.xyz",
+        "toolkit": "",
+        "h5": "https://h5.casfree.xyz",
+        "protocol": "https://portal.casfree.xyz",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/casfree/config.json",
+            "https://bksn515.vercel.app/hosts/casfree/config.json"
+        ]
+    }
+}
