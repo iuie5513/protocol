@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.credione.xyz",
+        "toolkit": "",
+        "h5": "https://h5.credione.xyz",
+        "protocol": "https://portal.credione.xyz",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/credione-new/config.json",
+            "https://bksn515.vercel.app/hosts/credione-new/config.json"
+        ]
+    }
+}
