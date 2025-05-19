@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.cashnow.site",
+        "toolkit": "",
+        "h5": "https://h5.cashnow.site",
+        "protocol": "https://portal.cashnow.site",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/cashnow/config.json",
+            "https://bksn515.vercel.app/hosts/cashnow/config.json"
+        ]
+    }
+}
