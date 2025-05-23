@@ -1,9 +1,13 @@
 {
-	"code":200,
-	"result":{
-		"api":"https://www.baidu.com",
-		"toolkit":"https://api.delivago-store.tech",
-		"h5":"https://user-h5.delivago-store.tech",
-		"protocol":null
-	}
+    "code": 200,
+    "result": {
+        "api": "https://user-api.delivago-store.tech",
+        "toolkit": "",
+        "h5": "https://user-h5.delivago-store.tech",
+        "protocol": "https://user-portal.delivago-store.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/delivago/config.json",
+            "https://bksn515.vercel.app/hosts/delivago/config.json"
+        ]
+    }
 }
