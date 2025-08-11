@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.cascas.tech",
+        "toolkit": "",
+        "h5": "https://h5.cascas.tech",
+        "protocol": "https://portal.cascas.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/cascas/config.json",
+            "https://bksn515.vercel.app/hosts/cascas/config.json"
+        ]
+    }
+}
