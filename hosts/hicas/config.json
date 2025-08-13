@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.hicas.tech",
+        "toolkit": "",
+        "h5": "https://h5.hicas.tech",
+        "protocol": "https://portal.hicas.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/hicas/config.json",
+            "https://bksn515.vercel.app/hosts/hicas/config.json"
+        ]
+    }
+}
