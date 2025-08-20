@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.finastra.tech",
+        "toolkit": "",
+        "h5": "https://h5.finastra.tech",
+        "protocol": "https://portal.finastra.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/finastra/config.json",
+            "https://bksn515.vercel.app/hosts/finastra/config.json"
+        ]
+    }
+}
