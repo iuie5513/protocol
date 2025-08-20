@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.koffinexa.xyz",
+        "toolkit": "",
+        "h5": "https://h5.koffinexa.xyz",
+        "protocol": "https://portal.koffinexa.xyz",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/koffinexa/config.json",
+            "https://bksn515.vercel.app/hosts/koffinexa/config.json"
+        ]
+    }
+}
