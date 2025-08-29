@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.ruptree.tech",
+        "toolkit": "",
+        "h5": "https://h5.ruptree.tech",
+        "protocol": "https://portal.ruptree.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/ruptree/config.json",
+            "https://bksn515.vercel.app/hosts/ruptree/config.json"
+        ]
+    }
+}
