@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.credibe.tech",
+        "toolkit": "",
+        "h5": "https://h5.credibe.tech",
+        "protocol": "https://portal.credibe.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/credibe/config.json",
+            "https://bksn515.vercel.app/hosts/credibe/config.json"
+        ]
+    }
+}
