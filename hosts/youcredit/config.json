@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.youcredit.tech",
+        "toolkit": "",
+        "h5": "https://h5.youcredit.tech",
+        "protocol": "https://portal.youcredit.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/youcredit/config.json",
+            "https://bksn515.vercel.app/hosts/youcredit/config.json"
+        ]
+    }
+}
