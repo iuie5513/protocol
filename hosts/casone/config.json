@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.casone.xyz",
+        "toolkit": "",
+        "h5": "https://h5.casone.xyz",
+        "protocol": "https://portal.casone.xyz",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/casone/config.json",
+            "https://bksn515.vercel.app/hosts/casone/config.json"
+        ]
+    }
+}
