@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.werupee.xyz",
+        "toolkit": "",
+        "h5": "https://h5.werupee.xyz",
+        "protocol": "https://portal.werupee.xyz",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/werupee/config.json",
+            "https://bksn515.vercel.app/hosts/werupee/config.json"
+        ]
+    }
+}
