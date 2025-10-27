@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.rupeefreeplus.tech",
+        "toolkit": "",
+        "h5": "https://h5.rupeefreeplus.tech",
+        "protocol": "https://portal.rupeefreeplus.tech",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/rupeefreeplus/config.json",
+            "https://bksn515.vercel.app/hosts/rupeefreeplus/config.json"
+        ]
+    }
+}
