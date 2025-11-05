@@ -1,10 +1,10 @@
 {
     "code": 200,
     "result": {
-        "api": "https://api.rupeeme.tech",
+        "api": "https://api.rupeeme.xyz",
         "toolkit": "",
-        "h5": "https://h5.rupeeme.tech",
-        "protocol": "https://portal.rupeeme.tech",
+        "h5": "https://h5.rupeeme.xyz",
+        "protocol": "https://portal.rupeeme.xyz",
         "configs": [
             "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/rupeeme/config.json",
             "https://bksn515.vercel.app/hosts/rupeeme/config.json"
