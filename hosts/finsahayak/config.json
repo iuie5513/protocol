@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.finsahayak.top",
+        "toolkit": "",
+        "h5": "https://h5.finsahayak.top",
+        "protocol": "https://portal.finsahayak.top",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/finsahayak/config.json",
+            "https://bksn515.vercel.app/hosts/finsahayak/config.json"
+        ]
+    }
+}
