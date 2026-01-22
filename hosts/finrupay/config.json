@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.finrupay.xyz",
+        "toolkit": "",
+        "h5": "https://h5.finrupay.xyz",
+        "protocol": "https://portal.finrupay.xyz",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/finrupay/config.json",
+            "https://bksn515.vercel.app/hosts/finrupay/config.json"
+        ]
+    }
+}
