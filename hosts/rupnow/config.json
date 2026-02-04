@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.rupnow.cloud",
+        "toolkit": "",
+        "h5": "https://h5.rupnow.cloud",
+        "protocol": "https://portal.rupnow.cloud",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/rupnow/config.json",
+            "https://bksn515.vercel.app/hosts/rupnow/config.json"
+        ]
+    }
+}
