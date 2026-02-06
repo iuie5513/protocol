@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.ruplife.xyz",
+        "toolkit": "",
+        "h5": "https://h5.ruplife.xyz",
+        "protocol": "https://portal.ruplife.xyz",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/ruplife/config.json",
+            "https://bksn515.vercel.app/hosts/ruplife/config.json"
+        ]
+    }
+}
