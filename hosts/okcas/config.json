@@ -1,10 +1,10 @@
 {
     "code": 200,
     "result": {
-        "api": "https://api.okcas.tech",
+        "api": "https://api.okcas.xyz",
         "toolkit": "",
-        "h5": "https://h5.okcas.tech",
-        "protocol": "https://portal.okcas.tech",
+        "h5": "https://h5.okcas.xyz",
+        "protocol": "https://portal.okcas.xyz",
         "configs": [
             "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/okcas/config.json",
             "https://bksn515.vercel.app/hosts/okcas/config.json"
