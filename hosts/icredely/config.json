@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.icredely.top",
+        "toolkit": "",
+        "h5": "https://h5.icredely.top",
+        "protocol": "https://portal.icredely.top",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/icredely/config.json",
+            "https://bksn515.vercel.app/hosts/icredely/config.json"
+        ]
+    }
+}
