@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.quickrup.top",
+        "toolkit": "",
+        "h5": "https://h5.quickrup.top",
+        "protocol": "https://portal.quickrup.top",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/quickrup/config.json",
+            "https://bksn515.vercel.app/hosts/quickrup/config.json"
+        ]
+    }
+}
