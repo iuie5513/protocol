@@ -1,9 +1,9 @@
 {
 	"code":200,
 	"result":{
-		"api":"https://delivery-api.speedy-reach.com",
+		"api":"https://api.speedyreach.top",
 		"toolkit":"",
-		"h5":"https://delivery-h5.speedy-reach.com",
+		"h5":"https://h5.speedyreach.top",
 		"protocol":null,
 		"configs":[
 			"https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/speedyreach/config.json",
