@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.finmoco.xyz",
+        "toolkit": "",
+        "h5": "https://h5.finmoco.xyz",
+        "protocol": "https://portal.finmoco.xyz",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/finmoco/config.json",
+            "https://bksn515.vercel.app/hosts/finmoco/config.json"
+        ]
+    }
+}
