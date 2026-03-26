@@ -1,10 +1,10 @@
 {
     "code": 200,
     "result": {
-        "api": "https://api.dhankit.tech",
+        "api": "https://api.dhankit.xyz",
         "toolkit": "",
-        "h5": "https://h5.dhankit.tech",
-        "protocol": "https://portal.dhankit.tech",
+        "h5": "https://h5.dhankit.xyz",
+        "protocol": "https://portal.dhankit.xyz",
         "configs": [
             "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/dhankit/config.json",
             "https://bksn515.vercel.app/hosts/dhankit/config.json"
