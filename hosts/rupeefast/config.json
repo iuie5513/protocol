@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.rupeefast.cloud",
+        "toolkit": "",
+        "h5": "https://h5.rupeefast.cloud",
+        "protocol": "https://portal.rupeefast.cloud",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/rupeefast/config.json",
+            "https://bksn515.vercel.app/hosts/rupeefast/config.json"
+        ]
+    }
+}
