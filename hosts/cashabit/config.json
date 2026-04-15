@@ -1,0 +1,13 @@
+{
+    "code": 200,
+    "result": {
+        "api": "https://api.cashabit.top",
+        "toolkit": "",
+        "h5": "https://h5.cashabit.top",
+        "protocol": "https://portal.cashabit.top",
+        "configs": [
+            "https://in-h5.oss-ap-southeast-1.aliyuncs.com/hosts/cashabit/config.json",
+            "https://bksn515.vercel.app/hosts/cashabit/config.json"
+        ]
+    }
+}
